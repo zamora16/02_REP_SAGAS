@@ -1,1 +1,13 @@
 1	Star Wars: Episodio I - La amenaza fantasma
+2 Star Wars: Episodio II - El Ataque de los Clones (22 ABY)
+3 Star Wars: The Clone Wars (película y serie) (22-19 ABY)
+4 Star Wars: Episodio III - La Venganza de los Sith (19 ABY)
+5 Star Wars: The Bad Batch (19-18 ABY)
+6 Han Solo: Una historia de Star Wars (13-10 ABY)
+7 Obi-Wan Kenobi (9 ABY)
+8 Star Wars Rebels (5-1 ABY)
+9 Andor (Fecha no especificada)
+10 Rogue One: Una historia de Star Wars (Año 0)
+11 Star Wars: Episodio IV - Una Nueva Esperanza (Fecha no especificada)
+12 Star Wars: Episodio V - El Imperio Contraataca (3 DBY)
+13 Star Wars: Episodio VI - El Regreso del Jedi (4 DBY)
